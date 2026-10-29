@@ -6,13 +6,13 @@ I'm a final-year B.Tech Computer Science and Engineering student specializing in
 
 ## About Me
 
-- ☁️ Exploring cloud infrastructure and AWS services
-- 🛠️ Building projects using Python, SQL, Linux, and web technologies
-- 🔐 Interested in cloud security and secure application design
-- 📚 Currently strengthening my Python, SQL, Linux, and PySpark fundamentals
-- 🎯 Aspiring to work in Cloud Engineering and Data Engineering
+- Exploring cloud infrastructure and AWS services
+- Building projects using Python, SQL, Linux, and web technologies
+- Interested in cloud security and secure application design
+- Currently strengthening my Python, SQL, Linux, and PySpark fundamentals
+- Aspiring to work in Cloud Engineering and Data Engineering
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ### CloudVault — Secure Cloud File Storage
 A cloud-based file storage web application built with HTML, CSS, JavaScript, Flask, SQLite, and AWS services, including S3 and EC2.
@@ -28,7 +28,7 @@ A web platform focused on cardiac awareness and health education, deployed on Re
 
 Repository: https://github.com/Tharun-23-27/CardioCare
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 - **Cloud:** AWS S3, EC2, IAM, Lambda fundamentals
 - **Programming:** Python, SQL, Java fundamentals
@@ -37,7 +37,7 @@ Repository: https://github.com/Tharun-23-27/CardioCare
 - **Web:** HTML, CSS, JavaScript, Flask
 - **Tools:** Git, GitHub, Figma
 
-## 📌 Current Focus
+## Current Focus
 
 Building practical cloud and data engineering projects while improving my problem-solving, SQL, Python, and Linux skills.
 
